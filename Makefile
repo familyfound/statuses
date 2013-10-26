@@ -1,5 +1,5 @@
 
-build: components index.js statuses.css
+build: components index.js statuses.styl
 	@component build --dev
 
 components: component.json

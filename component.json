@@ -12,6 +12,6 @@
     "index.js"
   ],
   "styles": [
-    "statuses.css"
+    "statuses.styl"
   ]
 }
