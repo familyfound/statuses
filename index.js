@@ -1,5 +1,5 @@
 
-module.exports = ['inactive', 'active', 'clean', 'complete']
+module.exports = ['inactive', 'active', 'clean', 'complete', 'hard']
 module.exports.titles = module.exports.map(function (name) {
   return {
     name: name,
